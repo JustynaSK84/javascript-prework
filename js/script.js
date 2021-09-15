@@ -61,3 +61,6 @@ else if( computerMove == 'papier' && playerMove == 'papier'){
 else if( computerMove == 'kamień' && playerMove == 'kamień'){
   printMessage('Remis!');
 }
+else {
+  printMessage('Nieznany ruch!')
+}
