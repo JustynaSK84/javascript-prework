@@ -1,2 +1,43 @@
+*, *::before* *::after* {
+  box-sizing: border-box;
+}
 
+.splash {
+  background: #F0E68C;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 10px;
+}
+.page-title {
+  color: #2F4F4F;
+  font-size: 45px;
+}
+.page-subtitle {
+  color: #808080;
+  font-size: 30px;
+  text-shadow: 2px 2px white;
+}
+.instruction {
+  color: #2F4F4F;
+  font-size: 25px;
+  text-decoration: underline;
+}
+.instruction-points {
+  color: #2F4F4F;
+  font-size: 18px;
+}
+.container {
+  color: #34495e;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+button {
+  height: 90px;
+  width: 200px;
+  background: #F0E68C;
+  border: 2px solid rgba(33, 68, 72, 0.59);
+  font-size: 30px;
+  text-shadow: 2px 2px white;
+}
 /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
